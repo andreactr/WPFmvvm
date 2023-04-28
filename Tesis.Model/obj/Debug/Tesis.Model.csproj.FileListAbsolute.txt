@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Ejercicios TESIS\MVVM\Tesis.Practice\Tesis.Model\bin\Debug\Tesis.Model.dll
+C:\Users\dell\Documents\Ejercicios TESIS\MVVM\Tesis.Practice\Tesis.Model\bin\Debug\Tesis.Model.pdb
+C:\Users\dell\Documents\Ejercicios TESIS\MVVM\Tesis.Practice\Tesis.Model\obj\Debug\Tesis.Model.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\Ejercicios TESIS\MVVM\Tesis.Practice\Tesis.Model\obj\Debug\Tesis.Model.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Ejercicios TESIS\MVVM\Tesis.Practice\Tesis.Model\obj\Debug\Tesis.Model.dll
+C:\Users\dell\Documents\Ejercicios TESIS\MVVM\Tesis.Practice\Tesis.Model\obj\Debug\Tesis.Model.pdb
